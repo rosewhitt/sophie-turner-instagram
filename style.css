@@ -1,0 +1,227 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  font-family: 'Roboto', sans-serif;
+
+}
+/*.farleft {
+  margin-top: 0px;
+  margin-right: 232.5px;
+  margin-left: 232.5px;
+  margin-bottom: 30px;
+
+  padding-top: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+}
+*/
+.total-bio {
+  margin:auto;
+}
+.photo-rules {
+  display:inline-block;
+  margin: 3px;
+  /* border: 1px solid black; */
+}
+.profile-pic {
+  position: absolute;
+  margin-top: 120px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  margin-left: 320px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+
+}
+.right {
+  margin-left: 575px;
+  margin-top: 115px;
+  border: 1px solid black;
+}
+
+.first-bio-line {
+  display: inline-block;
+  /* width: 400px; */
+  border: 1px solid black;
+}
+.username {
+  font-size: 28px;
+  font-weight: 300;
+  display: inline-block;
+  border: 1px solid black;
+}
+.verified {
+  height: 22px;
+  width: 22px;
+  display: inline-block;
+  border: 1px solid black;
+}
+.buttons {
+  /* margin-top: 4px; */
+  float: right;
+  display: inline-block;
+  margin-right: 560px;
+  margin-top: 3px;
+}
+#follow-buttons {
+  /* margin-top: 5px; */
+  display: inline-block;
+  /* object-fit: cover; */
+  width: 174px;
+  overflow: hidden;
+  border: 1px solid black;
+}
+/* .follow-buttons {
+  display: inline-block;
+  border: 1px solid black;
+  width: 95px;
+  height: 25px;
+  float:right;
+  margin-left: 10px;
+  margin-right: 400px;
+  margin-top: 5px;
+} */
+/* #follow-button {
+  background-color: #3897F0;
+  width: 94px;
+  height: 28px;
+  border-radius: 3px;
+  display: inline-block;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 15px;
+} */
+/* .follow-arrow-thing {
+  display: inline-block;
+  float: right;
+} */
+/* #follow-arrow {
+  border: 1px solid black;
+  float:right;
+  display: inline-block;
+  height: 28px;
+  width: 33px;
+} */
+/* .follow-button {
+  background: #3897F0;
+  font-weight: 500;
+  width: 95px;
+  height: 25px;
+  padding-left: 23px;
+  padding-top: 3px;
+  color: #FFFFFF;
+} */
+.hi {
+  display: inline-block;
+}
+.thing {
+  display: inline-block;
+  margin-left: 40px;
+}
+.infotext {
+  display: inline-block;
+  /* float: right; */
+  /* border: 1px solid black; */
+}
+
+.posts{
+  /* width: 85px; */
+  border: 1px solid black;
+}
+.number-posts {
+
+  font-weight: bold;
+  margin-top: 15px;
+  display: inline-block;
+}
+
+.followers {
+  border: 1px solid black;
+  display: inline-block;
+  /* float: right; */
+}
+#fol-text {
+  margin-left: 5px;
+  margin-top: 15px;
+}
+.number-followers {
+  float: left;
+  /* border: 1px solid black; */
+  font-weight: bold;
+  margin-top: 15px;
+  /* margin-left: 35px; */
+  display: inline-block;
+}
+
+.number-following {
+
+  font-weight: bold;
+
+  margin-top: 15px;
+  margin-left: 35px;
+  display: inline-block;
+}
+.Sophie-Turner {
+  font-weight: bold;
+  margin-top: 23px;
+}
+.biolink {
+  font-weight: bold;
+  margin-top: 5px;
+  color: #003568;
+}
+.acc-info {
+  font-size: 17px;
+  display: block;
+  border: 1px solid black;
+}
+.profile {
+  margin-left: 253px;
+  /* margin-right: 253px; */
+  margin-top: 130px;
+  /* border: 1px solid black; */
+  display: inline-block;
+}
+#photo1 {
+  overflow: hidden;
+  width:292px;
+  height:292px;
+}
+#photo2 {
+  overflow: hidden;
+  width:292px;
+  height:292px;
+  margin-left: 25px;
+}
+#photo3 {
+  overflow: hidden;
+  width:292px;
+  height:292px;
+  margin-left: 25px;
+}
+#photo4 {
+  overflow: hidden;
+  width:292px;
+  height:292px;
+  margin-top: 25px;
+}
+#photo5 {
+  overflow: hidden;
+  width:292px;
+  height:292px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+#photo6 {
+  overflow: hidden;
+  width:292px;
+  height:292px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
